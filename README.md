@@ -1,1 +1,1 @@
-# A developing a shopping system using python
+# Developing a shopping system using python
